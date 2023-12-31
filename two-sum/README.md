@@ -1,6 +1,6 @@
 # Intuition
 
-Initially I solved this using a HashMap for compliments, but that approach was slower than I wanted.
+Solved using a complement hashmap.
 
 # Approach
 
