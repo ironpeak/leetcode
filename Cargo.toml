@@ -1,3 +1,8 @@
 [workspace]
 resolver = "2"
-members = ["three-sum", "two-sum", "largest-substring-between-two-equal-characters"]
+members = [
+    "add-two-numbers",
+    "largest-substring-between-two-equal-characters", 
+    "three-sum", 
+    "two-sum", 
+]
